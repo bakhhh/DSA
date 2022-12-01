@@ -1,0 +1,10 @@
+dog
+cat
+rat
+cow
+mouse
+lizard
+pig
+elephant
+panda
+lion
